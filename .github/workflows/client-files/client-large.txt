@@ -1,0 +1,12 @@
+.DOC - This is a popular word processing file created by Microsoft Word. .DOC files are commonly used for producing written documents such as letters, CVs and essays.
+.PAGES - Part of Apple’s iWork suite, this is a text document and word processing file that is compatible with iOS and Mac OS.
+.DOCX - After 2007, .DOCX became the standard file format for saving documents in Word. It enhances accessibility by zipping XML data into three different folders.
+.MD - Commonly used by technical writers and web developers, .MD text files can create plain text documents with no other elements.
+.EML - These are emails saved in plain text with no special formatting in the text, graphics or images.
+.RTF - Rich text format files are universal text file formats that are more advanced than standard text files, capable of storing extra information and types of data.
+.TXT - One of the most compatible and basic text file formats, .TXT documents are used to create simple text documents with little to no formatting.
+.LOG - A log file is a data file that is used to track usage patterns, activities and operations within software and operating systems.
+.ASC - These files are protected ASCII files that enable secure communication and data exchange.
+.MSG - .MSG files are message text file formats that are used to represent individual email messages, contacts, tasks, appointments etc.
+.WPS - The precursor to Microsoft Word DOCs, .WPS files were once the industry standard. They contain less advanced formatting and no macros.
+.IPYNB - This is a notebook document file created by Jupyter Notebook, which contains all of the content included in a Jupyter Notebook web application session.

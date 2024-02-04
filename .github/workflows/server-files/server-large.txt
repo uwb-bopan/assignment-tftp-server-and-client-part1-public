@@ -1,0 +1,20 @@
+Advantages and disadvantages of text files.
+
+
+Different text file formats will have their own pros and cons. But we’ve compiled some of the most typical benefits and drawbacks here.
+
+
+Advantages.
+
+
+Simplicity. Text file formats are easy to use and create. This means you won’t typically encounter complex or technical challenges or need specific knowledge or expertise, to use them.
+Easy to recover. Text files can be easier to recover if data corruption occurs.
+Small and easily shareable. Text documents are often much smaller than other types of files, so they can be easily shared and stored.
+Highly accessible. Basic text file formats can be easily opened by most computers and devices without the need for any complex software. They are widely supported on different programmes.
+
+
+Disadvantages.
+
+
+Lack of formatting. The lack of formatting in basic text files makes them unsuitable for visual projects or documents that require images and fonts.
+Security. A double-edged effect of their simplicity, some text-based file types can be susceptible to data theft and damage from malicious software.
