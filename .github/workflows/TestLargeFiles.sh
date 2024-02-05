@@ -1,6 +1,5 @@
 #!/bin/bash
 
-set -e
 source ./TestCommon.sh
 
 SERVER_DIR="server-files"
