@@ -49,10 +49,12 @@ jobs:
 
     - name: Test continuous transfer (large file)
       working-directory: ${{github.workspace}}/build
+      if: ${{ always() }}
       run: bash TestLargeFiles.sh continuous
 
     - name: Test binary file transfer (binary file)
       working-directory: ${{github.workspace}}/build
+      if: ${{ always() }}
       run: bash TestLargeFiles.sh binary
 
     - name: Check memory leak (large file)
